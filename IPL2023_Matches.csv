@@ -1,0 +1,71 @@
+match_no,city,date_of_match,venue,Home_team,Away_team,toss_winner,winner,man_of_the_match,result,result_margin,eliminator,umpire1,umpire2
+1,Ahmedabad,3/31/2023,Narendra Modi Stadium,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Rashid Khan,Wickets,5,N,Nitin Menon,Saiyed Khalid
+2,Mohali,4/1/2023,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,Arshdeep Singh,Runs,7,DLS,Bruce Oxenford,Yeshwant Barde
+3,Lucknow,4/1/2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Lucknow Super Giants,Mark Wood,Runs,50,N,Anil Kumar Chaudhary,Nikhil Patwardhan
+4,Hyderabad,4/2/2023,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Jos Buttler,Runs,72,N,KN Anantha Padmanabhan,Rohan Pandit
+5,Bengaluru,4/2/2023,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Faf du Plessis,Wickets,8,N,Nitin Menon,Tapan Sharma
+6,Chennai,4/3/2023,MA Chidambaram Stadium,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Chennai Super Kings,Moeen Ali,Wickets,12,N,Akshay Totre,Bruce Oxenford
+7,Delhi,4/4/2023, Arun Jaitley Stadiumi,Delhi Capitals,Gujarat Titans,Gujarat Titans,Gujarat Titans,Sai Sudharsan,Wickets,6,N,Nand Kishore,Sadashiv Iyer
+8,Guwahati ,4/5/2023, Barsapara Cricket Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Punjab Kings,Nathan Ellis,Runs,5,N,KN Anantha Padmanabhan,Sai Darshan Kumar
+9,Kolkata,4/6/2023,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Shardul Thakur,Runs,81,N,Vinod Seshan,Virender Sharma
+10,Lucknow ,4/7/2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,Krunal Pandya,Wickets,5,N,Jayaraman Madanagopal,Yeshwant Barde
+11,Guwahati,4/8/2023, Barsapara Cricket Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Rajasthan Royals,Yashasvi Jaiswal,Runs,57,N,Navdeep Singh,Saidharshan Kumar
+12,Mumbai ,4/8/2023,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Wickets,7,N,Chris Gaffaney,Nikhil Patwardhan
+13,Ahmedabad ,4/9/2023,Narendra Modi Stadium,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Rinku Singh,Wickets,3,N,Nitin Menon,Tapan Sharma
+14,Hyderabad,4/9/2023,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Shikhar Dhawan,Wickets,8,N,Bruce Oxenford,Ulhas Gandhe
+15,Bengaluru,4/10/2023,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Lucknow Super Giants,Nicholas Pooran,Wickets,1,N,Anil Kumar Chaudhary,Nand Kishore
+16,Delhi,4/11/2023, Arun Jaitley Stadiumi,Delhi Capitals,Mumbai Indians,Mumbai Indians,Mumbai Indians,Rohit Sharma,Wickets,6,N,Michael Gough,Rohan Pandit
+17,Chennai,4/12/2023,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Ravichandran Ashwin,Runs,3,N,Vinod Seshan,Virender Sharma
+18,Mohali,4/13/2023,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Gujarat Titans,Gujarat Titans,Gujarat Titans,Mohit Sharma,Wickets,6,N,Akshay Totre,Jayaraman Madanagopal
+19,Kolkata,4/14/2023,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Harry Brook,Runs,23,N,Chris Gaffaney,Sadashiv Iyer
+20,Bengaluru,4/15/2023,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,Virat Kohli,Runs,23,N,KN Anantha Padmanabhan,Sai Darshan Kumar
+21,Lucknow ,4/15/2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Punjab Kings,Punjab Kings,Punjab Kings,Sikandar Raza,Wickets,2,N,Saiyed Khalid,Virender Sharma
+22,Mumbai ,4/16/2023,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Venkatesh Iyer,Wickets,5,N,Bruce Oxenford,Ulhas Gandhe
+23,Ahmedabad,4/16/2023,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Shimron Hetmyer,Wickets,3,N,Anil Kumar Chaudhary,Chris Gaffaney
+24,Bengaluru,4/17/2023,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Devon Conway,Runs,8,N,KN Anantha Padmanabhan,Navdeep Singh
+25,Hyderabad,4/18/2023,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Cameron Green,Runs,14,N,Nitin Menon,Vinod Seshan
+26,Jaipur,4/19/2023,Sawai Mansingh Stadium,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Marcus Stoinis,Runs,10,N,Jayaraman Madanagopal,Yeshwant Barde
+27,Mohali,4/20/2023,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Mohammed Siraj,Runs,24,N,Anil Kumar Chaudhary,Sadashiv Iyer
+28,Delhi,4/20/2023, Arun Jaitley Stadiumi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Ishant Sharma,Wickets,4,N,Rohan Pandit,Michael Gough
+29,Chennai,4/21/2023,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Wickets,7,N,Virender Sharma,Saiyed Khalid
+30,Lucknow ,4/22/2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Gujarat Titans,Mohit Sharma,Runs,7,N,Akshay Totre,Rod Tucker
+31,Mumbai ,4/22/2023,Wankhede Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,Punjab Kings,Sam Curran,Runs,13,N,Chris Gaffaney,Sadashiv Iyer
+32,Bengaluru,4/23/2023,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Glenn Maxwell,Runs,7,N,Michael Gough,Sai Darshan Kumar
+33,Kolkata,4/23/2023,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Ajinkya Rahane,Runs,49,N,Tapan Sharma,Nitin Menon
+34,Hyderabad,4/24/2023,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Delhi Capitals,Axar Patel,Runs,7,N,Rod Tucker,Jayaraman Madanagopal
+35,Ahmedabad,4/25/2023,Narendra Modi Stadium,Gujarat Titans,Mumbai Indians,Mumbai Indians,Gujarat Titans,Abhinav Manohar,Runs,55,N,Anil Chaudhary,Nand Kishore
+36,Bengaluru,4/26/2023,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Varun Chakaravarthy,Runs,21,N,KN Anantha Padmanabhan,Rohan Pandit
+37,Jaipur,4/27/2023,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Yashasvi Jaiswal,Runs,32,N,Yeshwant Barde,Akshay Totre
+38,Mohali,4/28/2023,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Marcus Stoinis,Runs,56,N,Nitin Menon,Vinod Seshan
+39,Kolkata,4/29/2023,Eden Gardens,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,Gujarat Titans,Joshua Little,Wickets,7,N,Chris Gaffaney,Nikhil Patwardhan
+40,Delhi,4/29/2023,Arun Jaitley Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Mitchell Marsh,Runs,9,N,Michael Gough,Navdeep Singh
+41,Chennai,4/30/2023,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Punjab Kings,Devon Conway,Wickets,4,N,Rod Tucker,Ulhas Gandhe
+42,Mumbai ,4/30/2023,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Yashasvi Jaiswal,Wickets,6,N,Virender Sharma,Vinod Seshan
+43,Lucknow ,5/1/2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Faf du Plessis,Runs,18,N,Anil Kumar Chaudhary,Sadashiv Iyer
+44,Ahmedabad,5/2/2023,Narendra Modi Stadium,Gujarat Titans,Delhi Capitals,Delhi Capitals,Delhi Capitals,Mohammed Shami,Runs,5,N,Michael Gough,Rohan Pandit
+45,Lucknow ,5/3/2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Draw,Draw,Draw,0,Draw,Anil Chaudhary,Chris Gaffaney
+46,Mohali,5/3/2023,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,Ishan Kishan,Wickets,6,N,Rod Tucker,Jayaraman Madanagopal
+47,Hyderabad,5/4/2023,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Varun Chakaravarthy,Runs,5,N,Michael Gough,KN Anantha Padmanabhan
+48,Jaipur,5/5/2023,Sawai Mansingh Stadium,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Rashid Khan,Wickets,9,N,Saiyed Khalid,Virender Sharma
+49,Chennai,5/6/2023,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Matheesha Pathirana,Wickets,6,N,Navdeep Singh,Bruce Oxenford
+50,Delhi,5/6/2023,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,Philip Salt,Wickets,7,N,Rod Tucker,Yeshwant Barde
+51,Ahmedabad ,5/7/2023,Narendra Modi Stadium,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,Shubman Gill,Runs,56,N,Nand Kishore,Anil Kumar Chaudhary
+52,Jaipur,5/7/2023,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Glenn Phillips,Wickets,4,N,Vinod Seshan,Nitin Menon
+53,Kolkata,5/8/2023,Eden Gardens,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Kolkata Knight Riders,Andre Russell,Wickets,5,N,Jayaraman Madanagopal,Akshay Totre
+54,Mumbai ,5/9/2023,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Suryakumar Yadav,Wickets,6,N,Saiyed Khalid,Virender Sharma
+55,Chennai,5/10/2023,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Runs,27,N,Chris Gaffaney,Nikhil Patwardhan
+56,Kolkata,5/11/2023,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Yashasvi Jaiswal,Wickets,9,N,Rod Tucker,Saidharshan Kumar
+57,Mumbai ,5/12/2023,Wankhede Stadium,Mumbai Indians,Gujarat Titans,Gujarat Titans,Mumbai Indians,Suryakumar Yadav,Runs,27,N,Nitin Menon,Tapan Sharma
+58,Hyderabad,5/13/2023,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Prerak Mankad,Wickets,7,N,Akshay Totre,Jayaraman Madanagopal
+59,Delhi,5/13/2023,Arun Jaitley Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,Punjab Kings,Prabhsimran Singh,Runs,31,N,Nikhil Patwardhan,Chris Gaffaney
+60,Jaipur,5/14/2023,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Wayne Parnell,Runs,112,N,KN Anantha Padmanabhan,Navdeep Singh
+61,Chennai,5/14/2023,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Rinku Singh,Wickets,6,N,Tapan Sharma,Vinod Seshan
+62,Ahmedabad,5/15/2023,Narendra Modi Stadium,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,Shubman Gill,Runs,34,N,Ulhas Gandhe,Jayaraman Madanagopal
+63,Lucknow ,5/16/2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,Marcus Stoinis,Runs,5,N,Nand Kishore,Anil Kumar Chaudhary
+64,Dharamsala,5/17/2023,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,Delhi Capitals,Rilee Rossouw,Runs,15,N,KN Anantha Padmanabhan,Sai Darshan Kumar
+65,Hyderabad,5/18/2023,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Wickets,8,N,Virender Sharma,Bruce Oxenford
+66,Dharamsala,5/19/2023,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Devdutt Padikkal,Wickets,4,N,Nand Kishore,Rod Tucker
+67,Delhi,5/20/2023,Arun Jaitley Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Ruturaj Gaikwad,Runs,77,N,Chris Gaffaney,Nikhil Patwardhan
+68,Kolkata,5/20/2023,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Nicholas Pooran,Runs,1,N,Jayaraman Madanagopal,Ulhas Gandhe
+69,Mumbai ,5/21/2023,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Cameron Green,Wickets,8,N,Rod Tucker,KN Anantha Padmanabhan
+70,Bengaluru,5/21/2023,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Gujarat Titans,Shubman Gill,Wickets,6,N,Nitin Menon,Virender Sharma
