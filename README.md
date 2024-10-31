@@ -2,6 +2,13 @@
 ## 1. Goal
 The goal of this project is to develop a machine learning model using Logistic Regression and Random Forest Classifier in Python to predict the win percentage of a cricket team at any instant during an Indian Premier League (IPL) match. The model leverages historical IPL data to estimate the likelihood of a team winning based on match conditions, current score, overs bowled, wickets lost, and other relevant factors.
 
+## Installation
+Clone the repository using git:
+```bash
+git clone https://github.com/Prajwal2212/Win-Prediction-ML.git
+cd Win-Prediction-ML
+```
+
 ## 2. Process
 ### 2.1. Tools and Libraries
 #### Python: Programming language used for the model development.
